@@ -1,0 +1,9 @@
+{
+  "name": "foo",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "bar": "workspace:*",
+    "vite": "7.1.11"
+  }
+}
