@@ -4,6 +4,6 @@
   "main": "index.js",
   "devDependencies": {
     "bar": "workspace:*",
-    "vite": "7.1.11"
+    "vite": "7.1.12"
   }
 }
